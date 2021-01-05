@@ -12,14 +12,11 @@ An unsupervised model divides the districts of India into 5 clusters. A ranking 
 For Phase 3 (i.e. for younger people with co-morbidities) we propose a classification model that predicts chance of being affected by the virus on an individual level and thus the priority of getting vaccinated.
 
 What to find here ? 
-(We recommend to check PPTX and visualization dashboard first before the codes and dataset.)
+(We recommend to check our submission PDF PPTX first before checking the codes and dataset.)
 
-1. Submission PPTX - Have a look to know our approach better
-2. HTML code for our visualization dashboard
-
+1. .ipynb Notebook
+2. Pre-processing dataset
 3. Final dataset used for clustering & prioritization (compiled from Census and COVID-19 India Data)
-4. .ipynb Notebook 
-5.
-6.
+4. Some other files
 
 # Built in India for a better World
